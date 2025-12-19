@@ -120,5 +120,7 @@ This ensures the response stays relevant to the uploaded documents.
 ---
 
 ### Short Description (for evaluation panel)
-
 A Python-based RAG system with a React frontend that uses FAISS for semantic search, caching for faster responses, and an LLM to generate answers grounded in uploaded documents.
+
+## Our Roughwork
+![alt text](image.png)
