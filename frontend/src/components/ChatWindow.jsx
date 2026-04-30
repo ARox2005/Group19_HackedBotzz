@@ -101,7 +101,7 @@ function ChatWindow({ selectedSources, useAllDocs }) {
                     WebkitBackgroundClip: 'text',
                     WebkitTextFillColor: 'transparent'
                 }}>
-                    🤖 RAG Chat with Qwen VLM
+                    🏥 Medi-bot
                 </h2>
                 <p style={{ margin: '0.25rem 0 0', color: 'rgba(255,255,255,0.5)', fontSize: '0.9rem' }}>
                     Ask questions about your documents
